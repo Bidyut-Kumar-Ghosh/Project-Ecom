@@ -1,0 +1,16 @@
+{
+  "name": "project-ecom",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bidyut",
+  "license": "Bidyut",
+  "description": "",
+  "dependencies": {
+    "colours": "^0.6.0-2",
+    "express": "^4.21.2"
+  }
+}
